@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: white;
+    border: 5px solid blue;
+    border-radius:10px;
+    padding: 10px;
+}
+
+header a {
+    color: white;
+    background-color:navy;
+    padding:5px;
+    border-radius:5px;
+}
+
+header b {
+    color: navy;
+}
+
+h1 {
+    color: rgb(247, 158, 56);
+    text-align: center;
+    border: 3px solid rgb(113, 20, 189);
+    border-radius: 20px;
+}
+
+footer p {
+    background-color: greenyellow;
+    padding: 5px;
+}
+
+.rrr {
+    border: 2px solid navy;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ppp {
+    color:blue;
+}
+
+.ooo {
+    color:blue;
+}
+
+.ccc {
+    color: navy;
+    text-decoration: none;
+    border: 3px solid navy;
+    padding: 10px;
+}
